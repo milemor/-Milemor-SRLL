@@ -27,9 +27,9 @@
 	path = ingadhoc/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 13.0
-[submodule "theme-ella"]
-	path = theme-ella
-	url = git@github.com:Rescue-Soluciones-IT/theme-ella.git
 [submodule "atharva_theme_general"]
 	path = atharva_theme_general
 	url = git@github.com:Rescue-Soluciones-IT/atharva-theme-general.git
+[submodule "theme_ella"]
+	path = theme_ella
+	url = git@github.com:Rescue-Soluciones-IT/theme-ella.git
