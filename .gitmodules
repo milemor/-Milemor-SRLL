@@ -1,6 +1,3 @@
-[submodule "theme-ella"]
-	path = theme-ella
-	url = git@github.com:Rescue-Soluciones-IT/theme-ella.git
 [submodule "atharva-theme-general"]
 	path = atharva-theme-general
 	url = git@github.com:Rescue-Soluciones-IT/atharva-theme-general.git
