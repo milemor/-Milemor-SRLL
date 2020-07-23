@@ -27,3 +27,8 @@
 	path = ingadhoc/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 13.0
+
+[submodule "OCA/commission"]
+	path = OCA/commission
+	url = git@github.com:OCA/commission.git
+	branch = 13.0
