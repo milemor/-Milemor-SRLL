@@ -33,3 +33,8 @@
 [submodule "theme_ella"]
 	path = theme_ella
 	url = git@github.com:Rescue-Soluciones-IT/theme-ella.git
+
+[submodule "ingadhoc/website"]
+	path = ingadhoc/website
+	url = git@github.com:ingadhoc/website.git
+	branch = 13.0
