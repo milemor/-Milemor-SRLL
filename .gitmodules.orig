@@ -28,11 +28,6 @@
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 13.0
 <<<<<<< HEAD
-[submodule "atharva_theme_general"]
-	path = atharva_theme_general
-	url = git@github.com:Rescue-Soluciones-IT/atharva-theme-general.git
-[submodule "theme_ella"]
-	path = theme_ella
-	url = git@github.com:Rescue-Soluciones-IT/theme-ella.git
+
 =======
 >>>>>>> origin/milemor
