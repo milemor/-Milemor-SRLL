@@ -42,3 +42,8 @@
 	path = sit-git17/atharva-theme-general
 	url = git@github.com:sit-git17/atharva-theme-general.git
 	branch = 13.0
+
+[submodule "sit-git17/theme_ella"]
+	path = sit-git17/theme_ella
+	url = git@github.com:sit-git17/theme_ella.git
+	branch = 13.0
